@@ -1,0 +1,2 @@
+model,params
+rf,"{'scaler': StandardScaler(), 'sampler': RandomOverSampler(random_state=1994), 'rf__n_estimators': 150, 'rf__min_samples_split': 2, 'rf__min_samples_leaf': 50, 'rf__max_features': 0.2, 'fs': None}"
