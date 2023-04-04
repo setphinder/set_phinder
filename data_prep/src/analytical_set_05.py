@@ -96,3 +96,9 @@ new_show_removed_songs_f = new_show.loc[new_show['songid'].isin(x['songid'].uniq
 os.chdir(config["dirs"]["rootdir"]+config["dirs"]["dataprep"]["root_dp"]+config["dirs"]["dataprep"]["final"])
 setlista.to_csv("analytical_set_full.csv", index=False)
 new_show_removed_songs_f.to_csv("new_show_analytical_set_full.csv", index=False)
+
+if config['trn_params']['refit_type'] == "refit":
+    os.chdir(config["dirs"]["rootdir"]+config["dirs"]["model"]["root_mdl"]+config["dirs"]["model"]["trn_data"])
+    setlista.to_csv(config['trn_params']['trn_data_name'], index=False)
+
+    

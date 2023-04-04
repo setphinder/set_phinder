@@ -50,7 +50,9 @@ config = {"phish_api_key":apikey,
                    "trn_data_name": "analytical_set_full_trn.csv",
                    "train_val_ss": 2018,
                    "extra_validation":2020,
-                   "gap_size_for_tv": 7
+                   "gap_size_for_tv": 7,
+                   "cv_type": "rolling",
+                   "refit_type": "refit"
                    }
                   }
               

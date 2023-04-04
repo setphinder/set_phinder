@@ -19,7 +19,7 @@ import json
 ## Preprocessing
 from sklearn.preprocessing import StandardScaler
 from imblearn.over_sampling import  RandomOverSampler 
-
+from sklearn.feature_selection import VarianceThreshold, SelectFromModel
 
 
 ## Models
@@ -247,6 +247,8 @@ del col
 ## Set some model data params
 group_var = config['trn_params']['group_var']
 outcom_var = config['trn_params']['outcom_var']
+cv_type = config['trn_params']['cv_type']
+refit_type = config['trn_params']['refit_type']
 
 ##convert to all float, unless outcome variable
 modeldata = new_data_to_check.copy(deep=True)
@@ -292,12 +294,13 @@ algonm = df["model"][0]
 
 params_cka = eval(df.loc[df.index==0, :]['params'].item())
 new_params, pre_processing_steps =get_best_param_lists(algonm, params_cka)
+main_mdl_obj = get_unfit_mdl_obj(algonm, new_params, nsl, rs=config['trn_params']['random_seed'])
 
 del params_cka, new_params, algonm
 
 
 ## Load in model object
-mdl = joblib.load(config["dirs"]["rootdir"]+config["dirs"]["model"]["root_mdl"]+config["dirs"]["model"]["mdl_objects"]+"\\"+"final_mdl_obj.sav")
+# mdl = joblib.load(config["dirs"]["rootdir"]+config["dirs"]["model"]["root_mdl"]+config["dirs"]["model"]["mdl_objects"]+"\\"+"final_mdl_obj.sav")
 
 del df
 
@@ -330,6 +333,7 @@ modeldata = modeldata.drop(columns=['showid', 'songid', 'new_tourid'])
         
 train = modeldata.loc[modeldata[group_var]< train_val_ss, :].reset_index(drop=True)
 
+modeldatadf = modeldata.copy(deep=True)
 
 del modeldata
 
@@ -351,15 +355,76 @@ del outcom_var_index, group_var_index
 X_train = train.iloc[:, train_cols].values
 y_train = train.iloc[:, test_cols].values
 
+if cv_type=="sliding":
+    
+    gap_size_for_tv = 7  
+    
+    # split_values_t = list(np.sort(after_validation_train[group_var].unique()))
+    # split_val_t = split_values_t[-gap_size_for_tv]
+    # after_validation_train = after_validation_train.loc[after_validation_train[group_var]>=split_val_t,:].reset_index(drop=True)
+    # del split_values_t , split_val_t
+    
+    split_values_t = list(np.sort(train[group_var].unique()))
+    split_val_t = split_values_t[-gap_size_for_tv]
+    
+    refit_train_use = train.loc[train[group_var]>=split_val_t,:].reset_index(drop=True)
+    
+    ref_X_train = refit_train_use.iloc[:, train_cols].values
+    ref_y_train = refit_train_use.iloc[:, test_cols].values
+    
+    del refit_train_use
+    
+    split_values_t = list(np.sort(modeldatadf[group_var].unique()))
+    split_val_t = split_values_t[-gap_size_for_tv]
+    modeldatadf = modeldatadf.loc[modeldatadf[group_var]>=split_val_t,:].reset_index(drop=True)
+    del split_values_t , split_val_t, gap_size_for_tv
+
+
+    
+
+# X_ex_test = after_validation_v.iloc[:, train_cols].values
+# y_ex_test = after_validation_v.iloc[:, test_cols].values
+
+# X_ex_train = after_validation_train.iloc[:, train_cols].values
+# y_ex_train = after_validation_train.iloc[:, test_cols].values
+
+X_fin_train = modeldatadf.iloc[:, train_cols].values
+y_fin_train = modeldatadf.iloc[:, test_cols].values
 
 
 del  train_cols, test_cols, extra_validation, group_var, mod_data_pth,  outcom_var, train_val_ss, selected_models, train
 
+if cv_type == "sliding":
+    if refit_type =='refit':
+        df_X_t, df_y_t, X_test_p = preprocess_for_retrain(pre_processing_steps, train_x_m=X_fin_train, train_y_m=y_fin_train, test_x_m=X_test)
+        mdl = refit_mdl_obj(main_mdl_obj, df_X_t, df_y_t)
+    else:
+        df_X_t, df_y_t, X_test_p = preprocess_for_retrain(pre_processing_steps, train_x_m=ref_X_train, train_y_m=ref_y_train, test_x_m=X_test)
+        mdl = refit_mdl_obj(main_mdl_obj, df_X_t, df_y_t)
+    # ref_train_data_v1, ref_train_y_v1 from ref_X_train, ref_y_train
+    # final_train, final_train_y from X_fin_train, y_fin_train
+    ## test_x_non comes from the ref_X_train, ref_y_train
+    ## test_x_ref comes from X_fin_train, y_fin_train
+    
+
+else:
+    
+    if refit_type =='refit':
+        df_X_t, df_y_t, X_test_p = preprocess_for_retrain(pre_processing_steps, train_x_m=X_fin_train, train_y_m=y_fin_train, test_x_m=X_test)
+        mdl = refit_mdl_obj(main_mdl_obj, df_X_t, df_y_t)
+    else:
+        df_X_t, df_y_t, X_test_p = preprocess_for_retrain(pre_processing_steps, train_x_m=X_train, train_y_m=y_train, test_x_m=X_test)
+        mdl = refit_mdl_obj(main_mdl_obj, df_X_t, df_y_t)
+
+
+
 ## Run pre-processing steps used on training data to pre-process new data.
-df_X_t, df_y_t, X_test_p = preprocess_for_retrain(pre_processing_steps, train_x_m=X_train, train_y_m=y_train, test_x_m=X_test)
+# df_X_t, df_y_t, X_test_p = preprocess_for_retrain(pre_processing_steps, train_x_m=X_train, train_y_m=y_train, test_x_m=X_test)
         
 
-del df_X_t, df_y_t, X_train, y_train, X_test, pre_processing_steps
+# del df_X_t, df_y_t, X_train, y_train, X_test, pre_processing_steps
+
+
 
 ## using model object, predict on the new observations and store probabilities with song and show ids
 y_pred_proba = mdl.predict_proba(X_test_p)
