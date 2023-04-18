@@ -1,42 +1,39 @@
 showid,songid,venue,city,state,country,showdate,song,probability
-1673378049.0,591.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,The Moma Dance,0.7946065226697213
-1673378049.0,2.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,46 Days,0.7838966433229523
-1673378049.0,48.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Bathtub Gin,0.770281570357552
-1673378049.0,630.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Twist,0.7647822197805318
-1673378049.0,113.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Character Zero,0.7572736930634256
-1673378049.0,110.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Chalk Dust Torture,0.7526298764775209
-1673378049.0,485.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Sand,0.748022690378737
-1673378049.0,215.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Free,0.7435725695290321
-1673378049.0,250.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Harry Hood,0.7203489128409153
-1673378049.0,538.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Stash,0.7173524747539461
-1673378049.0,512.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Slave to the Traffic Light,0.7126718135794574
-1673378049.0,202.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,First Tube,0.7053594909846366
-1673378049.0,2743.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Set Your Soul Free,0.7004523580392685
-1673378049.0,104.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Carini,0.6872221560169423
-1673378049.0,2803.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Sigma Oasis,0.6841914622989285
-1673378049.0,622.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Tube,0.6743917947952571
-1673378049.0,174.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Down with Disease,0.6524647922207846
-1673378049.0,2796.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Say It To Me S.A.N.T.O.S.,0.6515792360242839
-1673378049.0,529.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Split Open and Melt,0.6494463074544555
-1673378049.0,1102.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Ruby Waves,0.6426272878839471
-1673378049.0,2656.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Everything's Right,0.6314906698871834
-1673378049.0,627.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Tweezer,0.5965555953665167
-1673378049.0,440.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Possum,0.5948174888183467
-1673378049.0,339.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Light,0.5894047935898392
-1673378049.0,437.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Piper,0.5873725716063202
-1673378049.0,455.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Reba,0.5855480559210617
-1673378049.0,21.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Also Sprach Zarathustra,0.585415644441906
-1673378049.0,653.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Weekapaug Groove,0.5812062984415816
-1673378049.0,381.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Mike's Song,0.5706485192214743
-1673378049.0,442.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Prince Caspian,0.5690001493171867
-1673378049.0,364.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Maze,0.5662743119487433
-1673378049.0,683.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Wolfman's Brother,0.5561241120890744
-1673378049.0,628.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Tweezer Reprise,0.5484351627896616
-1673378049.0,2424.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,555,0.5451439557106628
-1673378049.0,108.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Cavern,0.5375121229516275
-1673378049.0,46.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Backwards Down the Number Line,0.5333613133871018
-1673378049.0,2571.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Shade,0.5131074717607277
-1673378049.0,246.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Halley's Comet,0.5068939760602429
-1673378049.0,609.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Theme From the Bottom,0.506655329828541
-1673378049.0,2829.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Drift While You're Sleeping,0.5052023482157086
-1673378049.0,508.0,Climate Pledge Arena,Seattle,WA,USA,04/15/2023,Simple,0.5006806934077246
+1673378127.0,485.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Sand,0.8550398104395026
+1673378127.0,630.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Twist,0.8261627730462566
+1673378127.0,2.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,46 Days,0.8244316722243149
+1673378127.0,48.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Bathtub Gin,0.7685104385833756
+1673378127.0,174.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Down with Disease,0.7607524732456713
+1673378127.0,113.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Character Zero,0.7536920576808956
+1673378127.0,2803.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Sigma Oasis,0.7374009454453975
+1673378127.0,538.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Stash,0.7327231936080324
+1673378127.0,202.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,First Tube,0.7321203650759106
+1673378127.0,512.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Slave to the Traffic Light,0.7164025377529935
+1673378127.0,21.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Also Sprach Zarathustra,0.7120952228269928
+1673378127.0,2656.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Everything's Right,0.7020925467611455
+1673378127.0,529.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Split Open and Melt,0.7020822645190481
+1673378127.0,653.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Weekapaug Groove,0.6967617957320896
+1673378127.0,104.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Carini,0.6953554201855722
+1673378127.0,2743.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Set Your Soul Free,0.6890285091469583
+1673378127.0,381.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Mike's Song,0.6882879730178553
+1673378127.0,246.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Halley's Comet,0.6859863034315677
+1673378127.0,627.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Tweezer,0.6846482396207662
+1673378127.0,440.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Possum,0.6633442057447186
+1673378127.0,628.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Tweezer Reprise,0.6373025041507754
+1673378127.0,364.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Maze,0.6345651348050746
+1673378127.0,609.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Theme From the Bottom,0.6251178620643913
+1673378127.0,46.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Backwards Down the Number Line,0.6247817844029996
+1673378127.0,508.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Simple,0.6229670246353118
+1673378127.0,339.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Light,0.6077418853600518
+1673378127.0,108.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Cavern,0.5589455704577883
+1673378127.0,148.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,David Bowie,0.5551441449094777
+1673378127.0,2744.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Soul Planet,0.5458071425694963
+1673378127.0,2571.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Shade,0.5432315751143905
+1673378127.0,690.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,You Enjoy Myself,0.5392930777222215
+1673378127.0,354.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Loving Cup,0.5362756388008437
+1673378127.0,2829.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Drift While You're Sleeping,0.5361270220352327
+1673378127.0,478.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Run Like an Antelope,0.525981558642863
+1673378127.0,161.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Divided Sky,0.5114580098344257
+1673378127.0,479.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,Runaway Jim,0.5113792344009959
+1673378127.0,2984.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,The Howling,0.509261581089146
+1673378127.0,2424.0,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,04/17/2023,555,0.5040523246782075

@@ -1,2 +1,2 @@
 model,params
-rf,"{'fs': VarianceThreshold(), 'rf__max_features': 0.2, 'rf__min_samples_leaf': 20, 'rf__min_samples_split': 100, 'rf__n_estimators': 550, 'sampler': RandomOverSampler(random_state=1994), 'scaler': StandardScaler()}"
+rf,"{'fs': VarianceThreshold(), 'rf__max_features': 0.2, 'rf__min_samples_leaf': 20, 'rf__min_samples_split': 100, 'rf__n_estimators': 555, 'sampler': RandomOverSampler(random_state=1994), 'scaler': StandardScaler()}"
