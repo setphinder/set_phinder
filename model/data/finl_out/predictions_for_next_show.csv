@@ -1,43 +1,40 @@
 showid,songid,venue,city,state,country,showdate,song,probability
-1695147110.0,250.0,Madison Square Garden,New York,NY,USA,12/29/2023,Harry Hood,0.8092033671911095
-1695147110.0,591.0,Madison Square Garden,New York,NY,USA,12/29/2023,The Moma Dance,0.8017580868961109
-1695147110.0,485.0,Madison Square Garden,New York,NY,USA,12/29/2023,Sand,0.7903574742278722
-1695147110.0,683.0,Madison Square Garden,New York,NY,USA,12/29/2023,Wolfman's Brother,0.7823284614968213
-1695147110.0,174.0,Madison Square Garden,New York,NY,USA,12/29/2023,Down with Disease,0.7759351682413507
-1695147110.0,215.0,Madison Square Garden,New York,NY,USA,12/29/2023,Free,0.7711240265505102
-1695147110.0,110.0,Madison Square Garden,New York,NY,USA,12/29/2023,Chalk Dust Torture,0.7564080182074954
-1695147110.0,2803.0,Madison Square Garden,New York,NY,USA,12/29/2023,Sigma Oasis,0.7542484751916575
-1695147110.0,21.0,Madison Square Garden,New York,NY,USA,12/29/2023,Also Sprach Zarathustra,0.7446948754492141
-1695147110.0,630.0,Madison Square Garden,New York,NY,USA,12/29/2023,Twist,0.7410824628444818
-1695147110.0,2656.0,Madison Square Garden,New York,NY,USA,12/29/2023,Everything's Right,0.7333578520879781
-1695147110.0,45.0,Madison Square Garden,New York,NY,USA,12/29/2023,Back on the Train,0.7311110654025229
-1695147110.0,2.0,Madison Square Garden,New York,NY,USA,12/29/2023,46 Days,0.7235410420899514
-1695147110.0,440.0,Madison Square Garden,New York,NY,USA,12/29/2023,Possum,0.699857327173395
-1695147110.0,3076.0,Madison Square Garden,New York,NY,USA,12/29/2023,Oblivion,0.6981038750885463
-1695147110.0,113.0,Madison Square Garden,New York,NY,USA,12/29/2023,Character Zero,0.6924495323758248
-1695147110.0,437.0,Madison Square Garden,New York,NY,USA,12/29/2023,Piper,0.6881844462172988
-1695147110.0,364.0,Madison Square Garden,New York,NY,USA,12/29/2023,Maze,0.6849598255701236
-1695147110.0,529.0,Madison Square Garden,New York,NY,USA,12/29/2023,Split Open and Melt,0.6807592819289658
-1695147110.0,2418.0,Madison Square Garden,New York,NY,USA,12/29/2023,Fuego,0.674744564537194
-1695147110.0,323.0,Madison Square Garden,New York,NY,USA,12/29/2023,Kill Devil Falls,0.6695022398186652
-1695147110.0,202.0,Madison Square Garden,New York,NY,USA,12/29/2023,First Tube,0.6670643376872846
-1695147110.0,339.0,Madison Square Garden,New York,NY,USA,12/29/2023,Light,0.6590868622491145
-1695147110.0,2743.0,Madison Square Garden,New York,NY,USA,12/29/2023,Set Your Soul Free,0.6584819650561285
-1695147110.0,622.0,Madison Square Garden,New York,NY,USA,12/29/2023,Tube,0.6558008089913452
-1695147110.0,104.0,Madison Square Garden,New York,NY,USA,12/29/2023,Carini,0.6452669215030823
-1695147110.0,512.0,Madison Square Garden,New York,NY,USA,12/29/2023,Slave to the Traffic Light,0.6449243527746248
-1695147110.0,538.0,Madison Square Garden,New York,NY,USA,12/29/2023,Stash,0.6403030981281461
-1695147110.0,1102.0,Madison Square Garden,New York,NY,USA,12/29/2023,Ruby Waves,0.6267308173271332
-1695147110.0,867.0,Madison Square Garden,New York,NY,USA,12/29/2023,Golden Age,0.6241034681738771
-1695147110.0,46.0,Madison Square Garden,New York,NY,USA,12/29/2023,Backwards Down the Number Line,0.6175444313051324
-1695147110.0,455.0,Madison Square Garden,New York,NY,USA,12/29/2023,Reba,0.6138374886624673
-1695147110.0,609.0,Madison Square Garden,New York,NY,USA,12/29/2023,Theme From the Bottom,0.6104664751534022
-1695147110.0,690.0,Madison Square Garden,New York,NY,USA,12/29/2023,You Enjoy Myself,0.5990808046267363
-1695147110.0,208.0,Madison Square Garden,New York,NY,USA,12/29/2023,Fluffhead,0.5862730436208708
-1695147110.0,478.0,Madison Square Garden,New York,NY,USA,12/29/2023,Run Like an Antelope,0.5855131765873006
-1695147110.0,442.0,Madison Square Garden,New York,NY,USA,12/29/2023,Prince Caspian,0.5839139050274471
-1695147110.0,627.0,Madison Square Garden,New York,NY,USA,12/29/2023,Tweezer,0.5733715321954993
-1695147110.0,148.0,Madison Square Garden,New York,NY,USA,12/29/2023,David Bowie,0.552657347909994
-1695147110.0,628.0,Madison Square Garden,New York,NY,USA,12/29/2023,Tweezer Reprise,0.5432328882542192
-1695147110.0,2845.0,Madison Square Garden,New York,NY,USA,12/29/2023,A Life Beyond The Dream,0.5215594161779603
-1695147110.0,679.0,Madison Square Garden,New York,NY,USA,12/29/2023,Wilson,0.5137821302329251
+1684286323.0,222.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Ghost,0.7886374667751349
+1684286323.0,2.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,46 Days,0.7762786508157095
+1684286323.0,2570.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Blaze On,0.7536218569859465
+1684286323.0,485.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Sand,0.7416625049346551
+1684286323.0,2796.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Say It To Me S.A.N.T.O.S.,0.7361021262781542
+1684286323.0,2946.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,A Wave of Hope,0.7226084358196251
+1684286323.0,3076.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Oblivion,0.7204477422798103
+1684286323.0,45.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Back on the Train,0.7029061527511434
+1684286323.0,591.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,The Moma Dance,0.691667821034995
+1684286323.0,215.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Free,0.656349870276089
+1684286323.0,110.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Chalk Dust Torture,0.6529452796109224
+1684286323.0,250.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Harry Hood,0.6487920699488933
+1684286323.0,683.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Wolfman's Brother,0.643023715691982
+1684286323.0,2572.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,No Men In No Man's Land,0.6410319167179319
+1684286323.0,246.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Halley's Comet,0.6303081877661628
+1684286323.0,630.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Twist,0.6234283238564263
+1684286323.0,48.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Bathtub Gin,0.6158266055262073
+1684286323.0,2656.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Everything's Right,0.5960327848412056
+1684286323.0,508.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Simple,0.5927618425656906
+1684286323.0,609.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Theme From the Bottom,0.5846677183430805
+1684286323.0,622.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Tube,0.5764165523411743
+1684286323.0,478.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Run Like an Antelope,0.5753744967882006
+1684286323.0,21.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Also Sprach Zarathustra,0.5710100274803801
+1684286323.0,442.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Prince Caspian,0.5585909270610732
+1684286323.0,104.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Carini,0.5563891581108835
+1684286323.0,538.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Stash,0.5510654489684379
+1684286323.0,113.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Character Zero,0.5452953019164988
+1684286323.0,483.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Sample in a Jar,0.5433447474654376
+1684286323.0,1102.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Ruby Waves,0.5420188483951472
+1684286323.0,867.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Golden Age,0.5373250189614857
+1684286323.0,339.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Light,0.5286776427231918
+1684286323.0,84.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Bouncing Around the Room,0.5163047637638962
+1684286323.0,2803.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Sigma Oasis,0.5148571510895749
+1684286323.0,653.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Weekapaug Groove,0.5141583147695745
+1684286323.0,381.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Mike's Song,0.5113967712808243
+1684286323.0,2743.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Set Your Soul Free,0.5091292688107341
+1684286323.0,364.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Maze,0.5059683697952889
+1684286323.0,2944.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Evolve,0.5046645454756927
+1684286323.0,323.0,Moon Palace,"Cancun, Quintana Roo",,Mexico,02/21/2024,Kill Devil Falls,0.5045601907812315
