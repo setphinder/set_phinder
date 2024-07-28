@@ -1,41 +1,37 @@
 showid,songid,venue,city,state,country,showdate,song,probability
-1709061756.0,591.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,The Moma Dance,0.8145082636451644
-1709061756.0,2803.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Sigma Oasis,0.7838915654743325
-1709061756.0,2570.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Blaze On,0.7698532685129975
-1709061756.0,622.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Tube,0.7612287619295764
-1709061756.0,2418.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Fuego,0.7568628687151235
-1709061756.0,2743.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Set Your Soul Free,0.7145393672334083
-1709061756.0,364.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Maze,0.7083252748033284
-1709061756.0,508.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Simple,0.6701393392208447
-1709061756.0,653.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Weekapaug Groove,0.6682213180903511
-1709061756.0,2845.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,A Life Beyond The Dream,0.6681716780737913
-1709061756.0,202.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,First Tube,0.6663848262226125
-1709061756.0,381.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Mike's Song,0.6563809269444213
-1709061756.0,455.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Reba,0.6424702373850519
-1709061756.0,2639.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,More,0.6301772855283824
-1709061756.0,442.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Prince Caspian,0.5958591825436368
-1709061756.0,483.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Sample in a Jar,0.5928411973877354
-1709061756.0,2573.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Mercury,0.5882424585690889
-1709061756.0,161.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Divided Sky,0.5871866986506472
-1709061756.0,108.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Cavern,0.5863207792080037
-1709061756.0,94.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Bug,0.5752661640976912
-1709061756.0,65.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Birds of a Feather,0.5745107219964499
-1709061756.0,208.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Fluffhead,0.5711649384487898
-1709061756.0,8.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,AC/DC Bag,0.5648657459551002
-1709061756.0,558.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Taste,0.5641882412513658
-1709061756.0,237.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Gotta Jibboo,0.5609865339894776
-1709061756.0,38.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Axilla (Part II),0.5555522358250451
-1709061756.0,354.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Loving Cup,0.5464683859008934
-1709061756.0,1355.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Steam,0.5446177235118077
-1709061756.0,246.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Halley's Comet,0.5381557907093043
-1709061756.0,2.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,46 Days,0.5381254409115657
-1709061756.0,393.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Mountains in the Mist,0.5368650204172896
-1709061756.0,3078.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Ether Edge,0.5241199264317503
-1709061756.0,642.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Wading in the Velvet Sea,0.5240334710467519
-1709061756.0,345.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Llama,0.5171211604468519
-1709061756.0,657.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,What's the Use?,0.5152373424949015
-1709061756.0,607.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,The Wedge,0.5147037003031399
-1709061756.0,2984.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,The Howling,0.511883079533943
-1709061756.0,2932.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Lonely Trip,0.5080048065994348
-1709061756.0,397.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,"My Friend, My Friend",0.5078420887632403
-1709061756.0,420.0,Mohegan Sun Arena,Uncasville,CT,USA,07/24/2024,Ocelot,0.5056742110176966
+1709061823.0,3076.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Oblivion,0.7700754112774697
+1709061823.0,683.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Wolfman's Brother,0.7496253847079984
+1709061823.0,21.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Also Sprach Zarathustra,0.7492224742881323
+1709061823.0,110.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Chalk Dust Torture,0.7290884397586941
+1709061823.0,45.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Back on the Train,0.7212584052344183
+1709061823.0,250.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Harry Hood,0.7113700442869644
+1709061823.0,630.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Twist,0.6809977410279506
+1709061823.0,2743.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Set Your Soul Free,0.6772136314299573
+1709061823.0,622.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Tube,0.669501805516299
+1709061823.0,627.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Tweezer,0.668060863274701
+1709061823.0,46.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Backwards Down the Number Line,0.655800240081615
+1709061823.0,529.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Split Open and Melt,0.6423908717671752
+1709061823.0,215.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Free,0.639518543806339
+1709061823.0,339.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Light,0.6305216671563479
+1709061823.0,2572.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,No Men In No Man's Land,0.6292764220327678
+1709061823.0,2944.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Evolve,0.6258727150396793
+1709061823.0,442.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Prince Caspian,0.6162682091640196
+1709061823.0,512.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Slave to the Traffic Light,0.6100533880942464
+1709061823.0,628.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Tweezer Reprise,0.6036150210785548
+1709061823.0,690.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,You Enjoy Myself,0.5975296055030453
+1709061823.0,237.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Gotta Jibboo,0.597073046771624
+1709061823.0,609.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Theme From the Bottom,0.5883869129101925
+1709061823.0,2796.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Say It To Me S.A.N.T.O.S.,0.5883513374076256
+1709061823.0,48.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Bathtub Gin,0.5792010540426895
+1709061823.0,440.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Possum,0.5677625439451814
+1709061823.0,3100.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Life Saving Gun,0.5585158108138923
+1709061823.0,161.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Divided Sky,0.5527273080682238
+1709061823.0,94.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Bug,0.5430721762227537
+1709061823.0,2656.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Everything's Right,0.5392195732337606
+1709061823.0,3078.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Ether Edge,0.5113677268654753
+1709061823.0,642.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Wading in the Velvet Sea,0.4929408635311696
+1709061823.0,354.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Loving Cup,0.4904297899245359
+1709061823.0,613.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Timber (Jerry the Mule),0.4762037752429675
+1709061823.0,84.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Bouncing Around the Room,0.473546750387001
+1709061823.0,657.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,What's the Use?,0.4689512705532682
+1709061823.0,479.0,Alpine Valley Music Theatre,East Troy,WI,USA,07/28/2024,Runaway Jim,0.4576278191359859
